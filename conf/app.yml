@@ -72,7 +72,7 @@ mode:
   domain: deepzz.com
 # twitter地址: twitter.com/chenqijing2
 twitter: 
-  card: summary
+  # card: summary
   site: chenqijing2
   image: st.deepzz.com/static/img/avatar.jpg
   address: twitter.com/chenqijing2
