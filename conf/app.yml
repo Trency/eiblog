@@ -82,7 +82,7 @@ account:
   # *后台登录用户名
   username: trency
   # *登录明文密码
-  password: deepzz
+  password: 123456
   # 邮箱，用于通知: chenqijing2@163.com
   email: chenqijing2@163.com
   # 手机号, "+8615100000000"
